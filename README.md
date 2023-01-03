@@ -12,7 +12,3 @@
 <a href="https://twitter.com/federicorcuesta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="federicorcuesta" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicorcuesta1&show_icons=true&locale=en&layout=compact" alt="federicorcuesta1" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=federicorcuesta1&show_icons=true&locale=en" alt="federicorcuesta1" /> </p>
-
