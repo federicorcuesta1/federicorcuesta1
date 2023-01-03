@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Federico Rengifo Cuesta</h1>
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
+<h3 align="center">Un apasionado desarrollador frontend y backend de Andalucia-Valle del Cauca - Colombia</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=federicorcuesta1&label=Profile%20views&color=0e75b6&style=flat" alt="federicorcuesta1" /> </p>
 
